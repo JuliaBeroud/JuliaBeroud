@@ -13,4 +13,4 @@ A passionate computer science student based in California.
 [![Email](https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white)](mailto:<julialberoud@gmail.com>)
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=c++,python,javascript,react,sql&perline=9" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c++,python,js,react,sql,node.js&perline=9" alt="Skills" />
